@@ -1,20 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: Statistical Consulting
+subtitle: Katherine Davis
 ---
 
-Sound Statistics, LLC is a professional consultancy based in the Puget Sound area of Washington state offering support with study design and methods for statistically valid research and outcomes reporting.
+Katherine holds a BS in Mathematics (Operations Research) from Clemson University and both MS and PhD degrees in Biostatistics from the University of Washington. With over 10 years of experience in market research, analytics, and biostatistics, she brings a wealth of knowledge and insight to every consultation. Her expertise ensures that clients receive tailored solutions that meet their unique needs.
 
-### Services
-
-Current service options include:
-- Grant Preparation 
-- Study Design
-- Choosing Statistical Methods
-- Sample Size Determination
-- Data Analysis, including Secondary Data Analysis
-- Data Monitoring Plans
-- Manuscript Collaboration
-- Independent Verification of Results
-- Technical Writing / Reports / Abstracts
