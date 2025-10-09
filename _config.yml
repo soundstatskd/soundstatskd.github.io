@@ -23,11 +23,12 @@ author: Katherine Davis
 
 navbar-links:
   About: "aboutme"
+  Services: "services"
   Resources:
     - What is statistical consulting: "https://community.amstat.org/cnsl/forclients/expect-content"
-  Collaborators:
-    - Bioststistics.ca: "https://biostatistics.ca"
-    - Better Biostatistics: "https://betterbiostatistics.com"
+#  Collaborators:
+#    - Bioststistics.ca: "https://biostatistics.ca"
+#    - Better Biostatistics: "https://betterbiostatistics.com"
   
 
 ################
