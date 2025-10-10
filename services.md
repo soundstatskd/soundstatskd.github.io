@@ -6,9 +6,7 @@ subtitle: Statistical Consulting
 
 Sound Statistics, LLC is a professional consultancy based in the Puget Sound area of Washington state offering support with study design and methods for statistically valid research and outcomes reporting.
 
-### Current offerings
-
-Current consultation services include:
+Current offerings include:
 - Grant Preparation 
 - Study Design
 - Choosing Statistical Methods
@@ -18,3 +16,4 @@ Current consultation services include:
 - Manuscript Collaboration
 - Independent Verification of Results
 - Technical Writing / Reports / Abstracts
+- Independent Statistician on Interim Monitoring Committee
