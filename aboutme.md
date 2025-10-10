@@ -8,4 +8,4 @@ subtitle: Katherine Davis
 
 I'm Katherine Davis, a statistical consultant with over 10 years of experience in market research, analytics, and biostatistics. I founded Sound Statistics in response to a demonstrated need in my community of academic researchers and industry practitioners for support with study design, statistical methods, and program evaluation report verificaiton.
 
-[Contact Me](mailto:info@soundstatisticsllc.com)
+[Contact Me](mailto:info@soundstatisticsllc.com) to schedule a complementary initial consultation.
