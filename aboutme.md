@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 subtitle: Katherine Davis
 ---
 
-Katherine holds a BS in Mathematics (Operations Research) from Clemson University and both MS and PhD degrees in Biostatistics from the University of Washington. With over 10 years of experience in market research, analytics, and biostatistics, she brings a wealth of knowledge and insight to every consultation. Her expertise ensures that clients receive tailored solutions that meet their unique needs.
+![Katherine Photo](./assets/img/katherine1.jpg)
 
+I'm Katherine Davis, a statistical consultant with over 10 years of experience in market research, analytics, and biostatistics. I founded Sound Statistics in response to a demonstrated need in my community of academic researchers and industry practitioners for support with study design, statistical methods, and program evaluation report verificaiton.
+
+[Contact Me](mailto:info@soundstatisticsllc.com)
