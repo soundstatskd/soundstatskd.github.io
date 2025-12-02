@@ -55,8 +55,8 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "info@soundstatisticsllc.com"
-  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #email: "info@soundstatisticsllc.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   #github: daattali
   #twitter: daattali
@@ -65,7 +65,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: "katherine-d-3b7a0b7"
+  linkedin: "katherine-davis-phd-3b7a0b7"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
