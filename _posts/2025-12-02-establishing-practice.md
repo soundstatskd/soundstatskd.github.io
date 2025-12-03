@@ -13,9 +13,9 @@ For others considering starting a consulting practice, below are key steps that 
 2. Opened a business bank account (with initial investment or loan)
 3. Purchased professional liability and cyber security insurance
 4. Drafted a website (using GITHub Pages)
-5. Purchased software (e.g., Microsoft 365 and Intuit Quickbooks)
+5. Purchased software (Microsoft 365 and Intuit Quickbooks)
 6. Purchased a domain name to be used for the business website and email address
-7. Investiagated market rates and calculated what hourly rate would align with full-time salary plus benefits
+7. Investigated market rates and calculated what hourly rate would align with full-time salary plus benefits
 9. Drafted/executed contracts with clients
 10. Drafted/executed contracts with referring agents (agreeing on "finders fees" terms for "qualified leads")
 11. Filed taxes (monthly, quarterly, or annually depending on expected income and other factors)
