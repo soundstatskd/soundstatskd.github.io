@@ -16,10 +16,10 @@ Education
 
 Experience
 
-  Principal Biostatistician, Cystic Fibrosis TDN Coordinating Center, Seattle Children's 2017-2025 <br/>
-  Senior Biostatistican and Associate Director (Analytics), Surgical Outcomes Research Center, University of Washington 2016-2017 <br/>
+  Principal Biostatistician, CFF-TDN Coordinating Center, Seattle Children's 2017-2025 <br/>
+  Associate Director (Analytics), Surgical Outcomes Research Center, University of Washington 2016-2017 <br/>
   Biostatistician, Bloodworks Northwest Research Institute 2015-2016 <br/>
-  Biostatistics Consultant, Center for Biomedical Statistics, University of Washington 2013-2015 <br/>
+  Biostatistician, Center for Biomedical Statistics, University of Washington 2013-2015 <br/>
   Postdoctoral Fellow, Fred Hutchinson Cancer Research Center 2010-2013 <br/>
 
 [Learn about my services and submit a request](./services.md) to schedule a complementary initial consultation.
