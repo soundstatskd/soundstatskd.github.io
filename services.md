@@ -24,14 +24,15 @@ Current offerings include:
   method="POST"
 >
   <label>
-    Your email:
+    Email address:
     <input type="email" name="email">
   </label>
+  <br />
   <label>
-    Your message:
+    Description of request:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
 {:/nomarkdown}
