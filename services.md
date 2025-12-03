@@ -19,6 +19,7 @@ Current offerings include:
 - Independent Statistician on Interim Monitoring Committee
 
 Submit a request for a complementary consultation:
+
 {::nomarkdown}
 <form
   action="https://formspree.io/f/xwpgbaea"
@@ -33,6 +34,7 @@ Submit a request for a complementary consultation:
     Description of request:
     <textarea name="message"></textarea>
   </label>
+    <br />
   <!-- your other form fields go here -->
   <button type="submit">Submit</button>
 </form>
