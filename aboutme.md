@@ -21,5 +21,7 @@ Experience
   Biostatistician, Bloodworks Northwest Research Institute 2015-2016 <br/>
   Biostatistician, Center for Biomedical Statistics, University of Washington 2013-2015 <br/>
   Postdoctoral Fellow, Fred Hutchinson Cancer Research Center 2010-2013 <br/>
+  Senior Metrics Analyst, Customer Service, Amazon.com 2002-2003 <br/>
+  Senior Consultant, Applied Decision Analysis, Standard & Poor's 2019-2002
 
 [Learn about my services and submit a request](./services.md) to schedule a complementary initial consultation.
