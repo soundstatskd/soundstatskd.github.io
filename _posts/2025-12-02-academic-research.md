@@ -6,7 +6,7 @@ subtitle: Establishing a statistical consulting business
 
 Welcome to the website for Sound Statistics, LLC, a statistical consultancy based in the Puget Sound region of Washington state.  In addition to hosting information about my service offerings and links to resources, I plan to post insights related to practice of statistics, biostatistics, and related disciplines.
 
-Like many biostatisiticians, my non-profit research position was "eliminated" May of 2025 due to funding shortages, and I found myself considering employment options.  While interviewing for jobs, I connected with scientific investigators and other statisticians about the prospect of independent consulting.  Given a sufficient level of interest, I decided to invest time, money, and energy into this venture.
+Like many biostatisiticians, my non-profit research position was eliminated May of 2025 due to funding shortages, and I found myself considering employment options.  While interviewing for jobs, I connected with scientific investigators and other statisticians about the prospect of independent consulting.  Given a sufficient level of interest, I decided to invest time, money, and energy into this venture.
 
 For others considering starting a consulting practice, below are key steps that I have taken to date to establish Sound Statistics:
 1. Filed the business with federal and local agencies
