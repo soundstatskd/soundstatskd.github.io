@@ -107,10 +107,10 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
-url: "https://www.soundstatisticsllc.com" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+url-pretty: "SoundStatisticsLLC.com"
+#url: "https://www.soundstatisticsllc.com" # the base hostname & protocol for your site
+#plugins:
+#  - jekyll-sitemap
 
 # Add the website title to the title of every page
 title-on-all-pages: true
