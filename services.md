@@ -30,7 +30,7 @@ Submit a request for a complementary consultation:
   </label>
   <br />
   <label>
-    Description of request:
+    Request summary:
     <textarea name="message"></textarea>
   </label>
     <br />
