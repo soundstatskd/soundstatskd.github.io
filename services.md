@@ -20,7 +20,6 @@ Current offerings include:
 
 Submit a request for a complementary consultation:
 
-{::nomarkdown}
 <form
   action="https://formspree.io/f/xwpgbaea"
   method="POST"
@@ -38,4 +37,3 @@ Submit a request for a complementary consultation:
   <!-- your other form fields go here -->
   <button type="submit">Submit</button>
 </form>
-{:/nomarkdown}
