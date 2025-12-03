@@ -4,7 +4,7 @@ title: Services
 subtitle: Statistical Consulting
 ---
 
-Sound Statistics, LLC is a professional consultancy based in Seattle, Washington offering support with study design and methods for statistically valid research and outcomes reporting.
+Sound Statistics, LLC is a professional consultancy based in Seattle, Washington offering in person and remote support with study design and methods for statistically valid research and outcomes reporting.
 
 Current offerings include:
 - Grant Preparation 
