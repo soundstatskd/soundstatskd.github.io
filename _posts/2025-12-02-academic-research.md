@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome!
-subtitle: Soundstatisticsllc.com Introduction
+subtitle: Establishing a statistical consulting business
 ---
 
 Welcome to the website for Sound Statistics, LLC, a statistical consultancy based in the Puget Sound region of Washington state.  In addition to hosting information about my service offerings and links to resources, I plan to post insights related to practice of statistics, biostatistics, and related disciplines.
