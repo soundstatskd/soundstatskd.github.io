@@ -7,59 +7,52 @@ editor_options:
     wrap: 72
 ---
 
-Over the past year, I have worked with clients on a range of projects.
-Two recently involved estimation of preference utilities and willingness
-to pay for product or package attributes through choice trade-off
-surveys. I drew on prior experience in market research consulting at
-Applied Decision Analysis and R programming skills. I also acquired new
-knowledge through literature review.
+Over the past year, I have worked with clients applying an array of
+methods. Two recent projects involved estimation of preference utilities
+and willingness to pay for product attributes using choice trade-off
+surveys.
 
 This post is the first in a series on this topic, including:
 
-1\. Introduction to Discrete Choice Experiments
-
-2\. Design and Analysis of Discrete Choice Experiments in R
-
-3\. Discrete Choice Experiments for Establishing the Smallest Worthwhile
-Effect of Treatment
+1.  Introduction to Discrete Choice Experiments
+2.  Design and Analysis of Discrete Choice Experiments in R
+3.  Discrete Choice Experiments for Establishing the Smallest Worthwhile
+    Effect of Treatment
 
 Discrete choice experiments (DCE) belong to the field of conjoint
-analysis survey methods designed to estimate relative importance and
-preferences for product attributes "considered conjointly" (thus,
-conjoint). If asked directly, someone may be able to report the relative
-importance of different attributes. For example, someone might say,
-"When deciding which medication to take, I would choose one with fewer
-doses despite risk of stomach upset." However, they are unlikely to be
-able to quantify the strength of this preference, how much more they
-would be willing to pay for a specific improvement, or whether other
-factors might influence their decision.
+analysis designed to elicit relative importance and preferences for
+product attributes *considered conjointly*. If asked directly, a
+respondent may be able rank the importance of attributes. For example,
+someone might say, "When deciding which medication to take, I would
+prefer one with fewer doses even if that risks of stomach upset."
+However, most would struggle to quantify the strength of this preference
+or whether other factors might influence their decision.
 
 In a DCE, attribute levels (e.g., dosing, side effects, and cost) are
 shown together in a series choice sets. For each set, a respondent is
-asked to specify their preferred choice. An example building on the
-medication features is shown below, assuming a common (moderate)
-improvement in clinical outcome.
+asked to specify their preferred choice. An example is shown below, in
+this case assigning a common (moderate) improvement in clinical outcome
+in order to assess the relative importance of .
 
 | Attribute | Choice A | Choice B |
 |------------------------|------------------------|------------------------|
 | Improvement in outcome | 4 in 5 people have symptom relief | 4 in 5 people have symptom relief |
-| Risk of stomach upset | High | Low |
+| Side effects | High risk of stomach upset | Low risk of stomach upset |
 | Doses per day | 1 | 2 |
 | Price per month in dollars | 10 | 15 |
 
-A series of these choice sets are presented, varying levels according to
-specifications. Common options in medical research include Bayesian
+A series of choice sets varying combinations of attribute levels are
+presented. Common methods for choice set specification include Bayesian
 D-Efficient and blocked fractional factorial designs (Kessels et al
 2011; Jaynes et al 2014; Vanniyasingam et al 2016). The number of choice
 sets and respondents may be determined using power estimation or
 simulations (Assele et al 2023; de Bekker-Grob 2015).
 
-It is possible to add a layer to these surveys to understand what
-outside factors may influence stated preferences. For example, one of my
-clients randomized respondents to salience intervention or control. Half
-of the respondents saw a statement instructing them to think about a
-specific attribute before beginning their set of choice tasks in the
-survey.
+It is possible to add a layer to these surveys to test whether outside
+factors influence stated preferences. For example, one client randomized
+respondents to salience intervention or control. Half of the respondents
+saw a statement instructing them to think about a specific attribute
+before beginning their set of choice tasks in the survey.
 
 Checklists developed by the International Society for Pharmacoeconomics
 and Outcomes Research (ISPOR) support the process of designing and
