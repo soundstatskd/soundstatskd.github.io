@@ -22,10 +22,12 @@ However, most would struggle to quantify the strength of this preference
 or whether other factors might influence their decision.
 
 In a DCE, attribute levels (e.g., dosing, side effects, and cost) are
-shown together in a series choice sets. For each set, a respondent is
+shown together in a series of choice sets. For each set, a respondent is
 asked to specify their preferred choice. An example is shown below, in
 this case assigning a common (moderate) improvement in clinical outcome
-in order to assess the relative importance of .
+in order to assess the relative importance of the remaining attributes.
+
+**Which would you choose, A or B?**
 
 | Attribute | Choice A | Choice B |
 |------------------------|------------------------|------------------------|
