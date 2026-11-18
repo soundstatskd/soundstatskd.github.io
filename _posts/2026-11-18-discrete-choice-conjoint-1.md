@@ -10,14 +10,7 @@ editor_options:
 Over the past year, I have worked with clients applying an array of
 methods. Two recent projects involved estimation of preference utilities
 and willingness to pay for product attributes using choice trade-off
-surveys.
-
-This post is the first in a series on this topic, including:
-
-1.  Introduction to Discrete Choice Experiments
-2.  Design and Analysis of Discrete Choice Experiments in R
-3.  Discrete Choice Experiments for Establishing the Smallest Worthwhile
-    Effect of Treatment
+surveys. This post is the first in a series on this topic.
 
 Discrete choice experiments (DCE) belong to the field of conjoint
 analysis designed to elicit relative importance and preferences for
